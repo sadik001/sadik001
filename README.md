@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadik001&label=Profile%20views&color=0e75b6&style=flat" alt="sadik001" /> </p>
 
-- 🔭 I’m currently working on **Network Analysis**
+- 🔭 I’m currently working in as a **Network Engineer** in **Fiber@Home LTD**
 
 - 🌱 I’m currently learning **.Net framework**
 
